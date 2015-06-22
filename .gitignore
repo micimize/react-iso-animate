@@ -1,0 +1,7 @@
+/node_modules
+static/dist
+*.swp
+*.swo
+*.hot-update.js
+*.hot-update.json
+mango.pem
