@@ -1,6 +1,6 @@
 {
   "name": "react-iso-animate",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Animate React components isomorphically based on state",
   "repository": "https://github.com/mangochomp/react-static-jsx",
   "author": "MangoChomp",
