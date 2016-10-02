@@ -14,12 +14,8 @@ module.exports = {
         filename: "IsoAnimateMixin.js"
     },
     externals: {
-        react: {
-            root: 'React',
-            commonjs: 'react',
-            commonjs2: 'react',
-            amd: 'react'
-        }
+        'bundle!react': 'react',
+        'bundle!react/addons': 'react/addons'
     },
     plugins: [
         new webpack.optimize.DedupePlugin(),
